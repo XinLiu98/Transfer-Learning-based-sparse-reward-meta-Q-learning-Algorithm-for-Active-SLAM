@@ -1,0 +1,1 @@
+Logging to ./log_dir/gazebo-dir_mql_dummy
